@@ -57,3 +57,133 @@ body
     display: flex;
     flex-direction: column;
 }
+#apropos
+{
+    margin-top: 2rem;
+}
+#container
+{
+    background-color: #BF926B;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+}
+#container h1
+{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2rem;
+    color: #402312;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 3rem;
+}
+#apropos p
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #707070;
+    margin-bottom: 3rem;
+}
+#apropos p span
+{
+    margin-top: 1rem;
+}
+.calltopremieretodo
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #BF926B;
+    border-radius: 5px;
+    display: inline;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    max-width: 400px;
+}
+.premiere 
+{
+    margin-left: auto;
+    margin-right: auto;
+    color: #402312;
+    width: auto;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: 'Julius Sans One', sans-serif;
+}
+.premiere:hover
+{
+    color: #3C4836;
+}
+.calltopremieretodo:hover
+{
+    background-color: #EBEEF2;
+}
+#newsletter
+{
+    margin-top: 2rem;
+}
+#containernewsletter
+{
+    margin-top: 5rem;
+    background-color: #3C4836;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5rem;
+}
+#containernewsletter h1
+{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Neucha', cursive;
+    color: #EBEEF2;
+    margin-bottom: 4rem;
+    text-transform: uppercase;
+}
+#containernewsletter p
+{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-size: 1rem;
+    color: #BF926B;
+}
+.calltonewsletter
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3C4836;
+    border-radius: 5px;
+    display: inline;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    max-width: 400px;
+}
+.calltonewsletter:hover
+{
+    background-color: #EBEEF2;
+}
+.newsletterlink 
+{
+    margin-left: auto;
+    margin-right: auto;
+    color: #EBEEF2;
+    width: auto;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: 'Julius Sans One', sans-serif;
+}
+.newsletterlink:hover
+{
+    color: #3C4836;
+}

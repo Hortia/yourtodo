@@ -56,6 +56,7 @@ body
 {
     display: flex;
     flex-direction: column;
+    background-color: #EBEEF2;
 }
 .header
 {
@@ -102,7 +103,7 @@ body
 }
 .calltoaction
 {
-    width: auto;;
+    width: auto;
     text-decoration: none;
     font-size: 1.5rem;
     color: #BF926B;
