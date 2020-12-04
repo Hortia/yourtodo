@@ -68,13 +68,13 @@ body
     display: table;
     margin-top: 2rem;
 }
-#reseaux
+.reseaux
 {
     display: flex;
     flex-direction: row;
     max-width: 200px;
 }
-#reseaux li
+.reseaux li
 {
     font-size: 2rem;
     color: #3C4836;
